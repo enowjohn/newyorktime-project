@@ -15,7 +15,7 @@
 }
 
 .subscribe-button {
-  background-color: rgb(19, 111, 142);
+  background-color: green;
   border: none;
   border-radius: 3px;
   margin: 5px;
@@ -464,3 +464,4 @@
   gap: 40px;
   justify-content: center;
 }
+
