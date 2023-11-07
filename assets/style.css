@@ -1,6 +1,6 @@
 * {
-  margin: 0px;
-  padding: 0px;
+  margin: 1px;
+  padding: 1px;
   box-sizing: border-box;
 }
 
@@ -52,7 +52,7 @@
   gap: 20px;
 }
 
-#sub-title {
+#subs-title {
   display: flex;
   font-size: 10px;
   justify-content: center;
@@ -73,8 +73,6 @@
   padding: 10px;
   font-size: 13px;
 }
-
-.container2 {}
 
 .container3 {
   display: flex;
@@ -124,7 +122,6 @@
   width: 80vw;
   gap: 25px;
   margin-right: 1px solid black;
-
 }
 
 .color-font {
@@ -160,7 +157,7 @@
   height: 25vw;
 }
 
-.pics-size {
+.picst-size {
   flex-direction: row;
 }
 
@@ -234,7 +231,6 @@
 
 .snl-pic {
   border-left: 1px solid black;
-
 }
 
 .david-pic {
@@ -353,7 +349,7 @@
   border-top: 1px solid black;
 }
 
-.Britney-pic {
+.britney-pic {
   flex-direction: column;
   border-right: 1px solid black;
 }
@@ -410,7 +406,7 @@
   justify-content: space-between;
 }
 
-.container-img {
+.containers-img {
   flex-direction: column;
 }
 
