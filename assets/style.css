@@ -1,8 +1,9 @@
 * {
-        margin: 0px;
-        padding: 0px;
-        box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
 }
+
 #main {
         margin: auto;
         width: 90vw;
@@ -72,11 +73,6 @@ border-bottom:5px double black;
     font-size: 13px;
 }
 
-
-.span-menu {
-    /* flex-direction: row; */
-}
-
 .container2 {
     
 }
@@ -85,10 +81,7 @@ border-bottom:5px double black;
     display: flex;
     margin: 40px;
     border-bottom: 1px solid black;
-    /* width: 20vw; */
-    gap: 15px;
-    /* flex-direction: column; */
-    
+    gap: 15px;  
 }
 
 .borders {
@@ -99,25 +92,12 @@ border-bottom:5px double black;
     flex-direction: column;
 }
 
-
-
-#container7 {
-     /* display: grid; */
-    /* margin: 40px; */
-    /* font-display: right; */
-    /* flex-wrap: wrap; */
-    /* text-align: start; */
-
-}
-
 #videos {
      display: flex;
      margin: 20px;
      border-left: 1px solid black ;
      align-items: center;
-     font-size: 10px;
-
-     
+     font-size: 10px; 
 }
 
 #peace {
@@ -144,7 +124,6 @@ border-bottom:5px double black;
         border-bottom: 1px solid black;
         width: 80vw;
         gap: 25px;
-        /* flex-direction: column; */
         margin-right: 1px solid black;
         
 }
@@ -187,10 +166,8 @@ border-bottom:5px double black;
 }
 
 .overal3 {
-    /* display: flex; */
     gap: 50px;
     border-bottom: 1px solid black;
-    /* width: 100vw; */
 }
 
 .border1 {
@@ -284,10 +261,6 @@ border-bottom:5px double black;
 .img41 {
     width: 30vw;
     height: 20vw;
-}
-
-.papers6 {
-    /* flex-direction: column; */
 }
 
 .pesto-pic {
@@ -435,7 +408,6 @@ border-bottom:5px double black;
     display: flex;
     gap: 45px;
     border-bottom: 1px solid black;
-    /* border-top: 1px solid black; */
     justify-content: space-between;
 }
 
