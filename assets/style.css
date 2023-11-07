@@ -1,20 +1,20 @@
-    * {
+* {
         margin: 0px;
         padding: 0px;
         box-sizing: border-box;
     }
 
-    #main {
+#main {
         margin: auto;
         width: 90vw;
     }
 
-    .header {
+.header {
         margin: auto;
         width: 90vw;
     }
 
-    .subscribe-button {
+.subscribe-button {
         background-color: rgb(19, 111, 142);
         border: none;
         border-radius: 3px;
@@ -50,12 +50,13 @@
 #login{
     display: flex;
     gap: 20px;
-
 }
-    display: flex;{
+
+#sub-title{
+    display: flex;
     font-size: 10px;
     justify-content: center;
-    border: 5px solid black;
+    border: 1px solid black;
 }
 
 #sub-title {
