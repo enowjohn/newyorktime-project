@@ -1,16 +1,16 @@
-*{
-    margin: 0px;
-    padding: 0px;
-    box-sizing: border-box;
+* {
+        margin: 0px;
+        padding: 0px;
+        box-sizing: border-box;
 }
 #main {
-    margin: auto;
-    width: 90vw;
+        margin: auto;
+        width: 90vw;
 }
 
 .header {
-    margin: auto;
-    width: 90vw;
+        margin: auto;
+        width: 90vw;
 }
 
 .subscribe-button {
