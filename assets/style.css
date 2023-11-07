@@ -1,0 +1,466 @@
+* {
+  margin: 1px;
+  padding: 1px;
+  box-sizing: border-box;
+}
+
+#main {
+  margin: auto;
+  width: 90vw;
+}
+
+.header {
+  margin: auto;
+  width: 90vw;
+}
+
+.subscribe-button {
+  background-color: green;
+  border: none;
+  border-radius: 3px;
+  margin: 5px;
+  color: white;
+  padding: 16px;
+}
+
+.header1 {
+  text-align: center;
+  border-bottom: 1px solid black;
+  font-family: calc(wrap);
+}
+
+.bar1 {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+#search {
+  display: flex;
+  gap: 20px;
+}
+
+#lang-us {
+  display: flex;
+  gap: 18px;
+  font-size: 10px;
+  text-align: center;
+}
+
+#login {
+  display: flex;
+  gap: 20px;
+}
+
+#subs-title {
+  display: flex;
+  font-size: 10px;
+  justify-content: center;
+  border: 1px solid black;
+}
+
+#sub-title {
+  display: flex;
+  gap: 30px;
+  padding: 20px;
+  justify-content: space-between;
+  font-size: 14px;
+  opacity: 0.7;
+  border-bottom: 5px double black;
+}
+
+.title-date {
+  padding: 10px;
+  font-size: 13px;
+}
+
+.container3 {
+  display: flex;
+  margin: 40px;
+  border-bottom: 1px solid black;
+  gap: 15px;
+}
+
+.borders {
+  border-top: 1px solid black;
+}
+
+.overal {
+  flex-direction: column;
+}
+
+#videos {
+  display: flex;
+  margin: 20px;
+  border-left: 1px solid black;
+  align-items: center;
+  font-size: 10px;
+}
+
+#peace {
+  display: flex;
+}
+
+.container-img {
+  border: 2px solid black;
+}
+
+.imgs-size {
+  width: 40vw;
+  height: 20vw;
+}
+
+.img1-size {
+  width: 25vw;
+  height: 13vw;
+}
+
+#img-size {
+  display: flex;
+  margin: 40px;
+  border-bottom: 1px solid black;
+  width: 80vw;
+  gap: 25px;
+  margin-right: 1px solid black;
+}
+
+.color-font {
+  color: red;
+}
+
+.img2-size {
+  width: 25vw;
+  height: 15vw;
+}
+
+.img-b {
+  flex-direction: column;
+  gap: 30px;
+}
+
+.loves {
+  flex-direction: column;
+}
+
+.overal-pics {
+  display: flex;
+  gap: 40px;
+  border-bottom: 1px solid black;
+}
+
+.pics-size {
+  flex-direction: column;
+}
+
+.img3-size {
+  width: 40vw;
+  height: 25vw;
+}
+
+.picst-size {
+  flex-direction: row;
+}
+
+.overal3 {
+  gap: 50px;
+  border-bottom: 1px solid black;
+}
+
+.border1 {
+  border-left: 1px solid black;
+}
+
+.sizes {
+  width: 25vw;
+  height: 15vw;
+}
+
+.img4-size {
+  width: 20vw;
+  height: 12vw;
+}
+
+.img5-size {
+  width: 50vw;
+  height: 28vw;
+}
+
+.img-justin {
+  width: 20vw;
+  height: 15vw;
+}
+
+.overal-justin {
+  display: flex;
+  border-bottom: 1px solid black;
+  gap: 50px;
+}
+
+.warner-pic {
+  flex-direction: column;
+  border-right: 1px solid black;
+}
+
+.justin-pic {
+  flex-direction: column;
+  border-right: 1px solid black;
+}
+
+.footers {
+  display: flex;
+  justify-content: center;
+  gap: 60px;
+  border-top: 1px solid black;
+}
+
+.image11 {
+  width: 15vw;
+  height: 9vw;
+}
+
+.image12 {
+  width: 15vw;
+  height: 9vw;
+}
+
+.image13 {
+  display: flex;
+  gap: 50px;
+  border-bottom: 1px solid black;
+}
+
+.snl-pic {
+  border-left: 1px solid black;
+}
+
+.david-pic {
+  border-left: 1px solid black;
+}
+
+.general {
+  display: flex;
+  gap: 45px;
+  border-bottom: 1px solid black;
+}
+
+.image14-size {
+  width: 55px;
+  height: 30px;
+}
+
+.img61 {
+  width: 26vw;
+  height: 18vw;
+}
+
+.img41 {
+  width: 30vw;
+  height: 20vw;
+}
+
+.pesto-pic {
+  flex-direction: column;
+}
+
+.general1 {
+  display: flex;
+  gap: 50px;
+  border-bottom: 1px solid black;
+}
+
+.center-pic {
+  flex-direction: column;
+}
+
+.left-container2 {
+  display: flex;
+  gap: 40px;
+  border-bottom: 1px solid black;
+}
+
+.pics-sizes {
+  width: 50vw;
+  height: 30vw;
+}
+
+.text1 {
+  border-right: 1px solid black;
+}
+
+.picture-size {
+  width: 20vw;
+  height: 14vw;
+}
+
+.left-container3 {
+  display: flex;
+  border-bottom: 1px solid black;
+  gap: 50px;
+}
+
+.paragraph1 {
+  border-right: 1px solid black;
+}
+
+.tony-pic {
+  border-right: 1px solid black;
+}
+
+.general3 {
+  display: flex;
+  border-bottom: 1px solid black;
+  gap: 50px;
+  border-top: 1px solid black;
+}
+
+.label1 {
+  flex-direction: column;
+  border-right: 1px solid black;
+}
+
+.label2 {
+  flex-direction: column;
+  border-right: 1px solid black;
+}
+
+.label3 {
+  flex-direction: column;
+  border-right: 1px solid black;
+}
+
+.label4 {
+  flex-direction: column;
+}
+
+.picture2-size {
+  width: 8vw;
+  height: 8vw;
+}
+
+.bright {
+  width: 8vw;
+  height: 8vw;
+}
+
+.general4 {
+  display: flex;
+  gap: 50px;
+  border-bottom: 1px solid black;
+  border-top: 1px solid black;
+}
+
+.britney-pic {
+  flex-direction: column;
+  border-right: 1px solid black;
+}
+
+.wholesale-pic {
+  flex-direction: column;
+  border-right: 1px solid black;
+}
+
+.sale-pic {
+  flex-direction: column;
+  border-right: 1px solid black;
+}
+
+.carmen-pick {
+  flex-direction: column;
+  border-right: 1px solid black;
+}
+
+.img16 {
+  width: 10vw;
+  height: 10vw;
+}
+
+.loving {
+  display: flex;
+  border-bottom: 1px solid black;
+  border-top: 1px solid black;
+  gap: 40px;
+}
+
+.testani {
+  flex-direction: column;
+  border-right: 1px solid black;
+}
+
+.julian {
+  border-right: 1px solid black;
+}
+
+.toxic {
+  flex-direction: column;
+}
+
+.john {
+  width: 20vw;
+  height: 20vw;
+}
+
+.game {
+  display: flex;
+  gap: 45px;
+  border-bottom: 1px solid black;
+  justify-content: space-between;
+}
+
+.containers-img {
+  flex-direction: column;
+}
+
+.john3 {
+  width: 8vw;
+  height: 8vw;
+}
+
+.all-img {
+  display: flex;
+  gap: 40px;
+  justify-content: center;
+  border-bottom: 1px solid black;
+  border-top: 1px solid black;
+}
+
+.img36 {
+  border-right: 1px solid black;
+}
+
+.img34 {
+  border-right: 1px solid black;
+}
+
+.news {
+  border-right: 1px solid black;
+}
+
+.img76 {
+  width: 9vw;
+  height: 9vw;
+}
+
+.paragraph14 {
+  flex-direction: column;
+}
+
+.paragraph15 {
+  flex-direction: column;
+}
+
+.paragraph16 {
+  flex-direction: column;
+  border-right: 1px solid black;
+}
+
+.paragraph17 {
+  flex-direction: column;
+}
+
+.overal-paragraph {
+  display: flex;
+  border-bottom: 1px solid black;
+  border-right: 1px solid black;
+  gap: 40px;
+  justify-content: center;
+}
